@@ -1,0 +1,6 @@
+site_name: API documentation list
+
+docs_dir: Docs
+
+pages:
+- ['index.md','List of API documents']
