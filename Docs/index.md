@@ -12,11 +12,13 @@
 
 # Networking stack API
 
+[Doxygen](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/api/index.html)
+
 [API reference](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/05_reference/index.html)
 
 # mbed Client API
 
-[Doxygen](https://docs.mbed.com/docs/mbed-client-guide/en/latest/api/annotated.html)
+[Doxygen](https://docs.mbed.com/docs/mbed-client-guide/en/latest/api/index.html)
 
 [API reference](https://docs.mbed.com/docs/mbed-client-guide/en/latest/Howto/)
 
