@@ -1,27 +1,27 @@
 ## mbed-drivers
 
-[Doxygen](https://docs.mbed.com/docs/mbed-drivers-api/en/latest/api/index.html)
+<span style="background-color:#ececf9;border:1px solid #000;display:block; height:100%; padding:10px">[Doxygen](https://docs.mbed.com/docs/mbed-drivers-api/en/latest/api/index.html)</span>
 
 ## mbed-hal
 
-[Doxygen](https://docs.mbed.com/docs/mbed-hal-api/en/latest/api/index.html)
+<span style="background-color:#ececf9;border:1px solid #000;display:block; height:100%; padding:10px">[Doxygen](https://docs.mbed.com/docs/mbed-hal-api/en/latest/api/index.html)</span>
 
 ## BLE
 
-[Doxygen](https://docs.mbed.com/docs/ble-api/en/master/api/index.html)
+<span style="background-color:#ececf9;border:1px solid #000;display:block; height:100%; padding:10px">[Doxygen](https://docs.mbed.com/docs/ble-api/en/master/api/index.html)</span>
 
 ## Networking stack (arm-ipv66lowpan-stack)
 
-[Doxygen](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/api/index.html)
+<span style="background-color:#ececf9;border:1px solid #000;display:block; height:100%; padding:10px">[Doxygen](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/api/index.html)</span>
 
-[API reference](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/05_reference/index.html)
+<span style="background-color:#b3b3e6;border:1px solid #000;display:block; height:100%; padding:10px">[API reference](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/05_reference/index.html)</span>
 
 ## mbed Client
 
-[Doxygen](https://docs.mbed.com/docs/mbed-client-guide/en/latest/api/index.html)
+<span style="background-color:#ececf9;border:1px solid #000;display:block; height:100%; padding:10px">[Doxygen](https://docs.mbed.com/docs/mbed-client-guide/en/latest/api/index.html)</span>
 
-[API reference](https://docs.mbed.com/docs/mbed-client-guide/en/latest/Howto/)
+<span style="background-color:#b3b3e6;border:1px solid #000;display:block; height:100%; padding:10px">[API reference](https://docs.mbed.com/docs/mbed-client-guide/en/latest/Howto/)</span>
 
 ## mbed Device Connector
 
-[API reference](https://docs.mbed.com/docs/mbed-device-connector-web-interfaces/en/latest/api-reference/)
+<span style="background-color:#b3b3e6;border:1px solid #000;display:block; height:100%; padding:10px">[API reference](https://docs.mbed.com/docs/mbed-device-connector-web-interfaces/en/latest/api-reference/)</span>
