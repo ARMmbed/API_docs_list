@@ -10,6 +10,10 @@
 
 [Doxygen](https://docs.mbed.com/docs/core-util-api/en/latest/api/index.html)
 
+## MINAR
+
+[Doxygen](https://docs.mbed.com/docs/minar-api/en/latest/api/index.html)
+
 ## Sockets
 
 [Doxygen](https://docs.mbed.com/docs/sockets-api/en/latest/api/index.html)
