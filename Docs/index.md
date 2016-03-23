@@ -6,6 +6,10 @@
 
 [Doxygen](https://docs.mbed.com/docs/mbed-hal-api/en/latest/api/index.html)
 
+## core-util
+
+[Doxygen](https://docs.mbed.com/docs/core-util-api/en/latest/api/index.html)
+
 ## BLE
 
 [Doxygen](https://docs.mbed.com/docs/ble-api/en/master/api/index.html)
