@@ -1,28 +1,10 @@
 # List of API documents
 
-## mbed-drivers
+## mbed OS
 
-[Doxygen](https://docs.mbed.com/docs/mbed-drivers-api/en/latest/api/index.html)
+[Doxygen](https://docs.mbed.com/docs/mbed-os-api/en/mbed-os-5.1.0/api/index.html)
 
-## mbed-hal
-
-[Doxygen](https://docs.mbed.com/docs/mbed-hal-api/en/latest/api/index.html)
-
-## core-util
-
-[Doxygen](https://docs.mbed.com/docs/core-util-api/en/latest/api/index.html)
-
-## MINAR
-
-[Doxygen](https://docs.mbed.com/docs/minar-api/en/latest/api/index.html)
-
-## Sockets
-
-[Doxygen](https://docs.mbed.com/docs/sockets-api/en/latest/api/index.html)
-
-## BLE
-
-[Doxygen](https://docs.mbed.com/docs/ble-api/en/master/api/index.html)
+[API reference]([https://docs.mbed.com/docs/mbed-os-api-reference/en/5.1/]
 
 ## Networking stack (arm-ipv66lowpan-stack)
 
