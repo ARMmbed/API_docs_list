@@ -4,7 +4,7 @@
 
 [Doxygen](https://docs.mbed.com/docs/mbed-os-api/en/mbed-os-5.1.0/api/index.html)
 
-[API reference]([https://docs.mbed.com/docs/mbed-os-api-reference/en/5.1/]
+[API reference](https://docs.mbed.com/docs/mbed-os-api-reference/en/5.1/)
 
 ## Networking stack (arm-ipv66lowpan-stack)
 
