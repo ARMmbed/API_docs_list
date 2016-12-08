@@ -21,3 +21,7 @@
 ## mbed Device Connector
 
 [API reference](https://docs.mbed.com/docs/mbed-device-connector-web-interfaces/en/latest/api-reference/)
+
+## mbed TLS
+
+[API reference](https://tls.mbed.org/api/).
