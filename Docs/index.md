@@ -2,9 +2,9 @@
 
 ## mbed OS
 
-[Doxygen](https://docs.mbed.com/docs/mbed-os-api/en/mbed-os-5.2/api/index.html)
+[Doxygen](https://docs.mbed.com/docs/mbed-os-api/en/mbed-os-5.3/api/index.html)
 
-[API reference](https://docs.mbed.com/docs/mbed-os-api-reference/en/5.2/)
+[API reference](https://docs.mbed.com/docs/mbed-os-api-reference/en/5.3/)
 
 ## Networking stack (arm-ipv66lowpan-stack)
 
